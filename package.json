@@ -1,5 +1,6 @@
 {
   "name":"guggenheim.js",
+  "version": "0.1.0",
   "author":"OiNutter <will@oinutter.co.uk>",
   "devDependencies":{
     "uglify-js":"*"
